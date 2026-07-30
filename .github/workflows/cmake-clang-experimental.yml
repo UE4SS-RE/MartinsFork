@@ -1,7 +1,5 @@
 name: Make Experimental Release (Clang)
 
-# TEST, drop this commit/remove this line before making PR for upstream.
-
 on:
   workflow_dispatch:
   push:
